@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\SystemNet\SystemNet\bin\Debug\SystemNet.exe.config
+C:\Users\Eren\source\repos\SystemNet\SystemNet\bin\Debug\SystemNet.exe
+C:\Users\Eren\source\repos\SystemNet\SystemNet\bin\Debug\SystemNet.pdb
+C:\Users\Eren\source\repos\SystemNet\SystemNet\obj\Debug\SystemNet.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\SystemNet\SystemNet\obj\Debug\SystemNet.Form1.resources
+C:\Users\Eren\source\repos\SystemNet\SystemNet\obj\Debug\SystemNet.Properties.Resources.resources
+C:\Users\Eren\source\repos\SystemNet\SystemNet\obj\Debug\SystemNet.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\SystemNet\SystemNet\obj\Debug\SystemNet.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\SystemNet\SystemNet\obj\Debug\SystemNet.exe
+C:\Users\Eren\source\repos\SystemNet\SystemNet\obj\Debug\SystemNet.pdb
